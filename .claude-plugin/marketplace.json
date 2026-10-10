@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"理财规划助手：记账→预算→储蓄目标一条龙，输出末尾强制合规声明（不构成投资建议）","name":"lhg-money-plan","source":"./"}]}
